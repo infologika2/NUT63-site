@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿<?php
+?>
+<!DOCTYPE html>
 <html lang="ru">
 
 <head>
@@ -2595,5 +2597,4 @@
 </body>
 
 </html>
-
 
